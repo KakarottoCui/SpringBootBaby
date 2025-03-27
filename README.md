@@ -1,7 +1,7 @@
 # SpringBootBaby
 基于JAVA SpringBoot和HTML婴幼儿商品商城设计
 
-演示视频链接：https://live.csdn.net/v/323673
+演示视频链接：https://www.bilibili.com/video/BV17N4y1R7sS/
 
 功能介绍：
 
